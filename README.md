@@ -28,3 +28,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Walkthrough Video
 https://drive.google.com/file/d/1lD79U6F335SM3-EwgdfECcOAj6YvrJch/view
+
+
+## Contributors
+Marco Saverino, 
